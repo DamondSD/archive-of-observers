@@ -1,6 +1,6 @@
 # Archive of Observers
 
-A Foundry VTT module that creates a clean, cinematic **Observer Window** — perfect for streaming, recording, or showing your table a polished view without the GM chrome.
+A Foundry VTT module that creates a clean, cinematic **Observer Window** — perfect for streaming, recording, or showing your table a polished view without Foundry's GM clutter.
 
 Designed for Foundry VTT **v12 and v13**.
 
