@@ -2,7 +2,7 @@
     "id": "archive-of-observers",
     "title": "Archive of Observers",
     "description": "A cinematic observer window for Foundry VTT. Provides a clean, read-only display for streaming or live play, with player HUD, scene banners, chat bubbles, roll overlays, Epic Rolls 5e integration, and optional JB2A effects.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "authors": [
         {
             "name": "Shadowdrake Creations"
@@ -28,6 +28,7 @@
     "socket": true,
     "url": "https://github.com/DamondSD/archive-of-observers",
     "manifest": "https://raw.githubusercontent.com/DamondSD/archive-of-observers/main/module.json",
-    "download": "https://github.com/DamondSD/archive-of-observers/releases/download/v1.0.0/archive-of-observers-v1.0.0.zip",
+    "download": "https://github.com/DamondSD/archive-of-observers/releases/download/v1.1.0/archive-of-observers-v1.1.0.zip",
     "license": "MIT"
+
 }
